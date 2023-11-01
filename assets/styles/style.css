@@ -1,0 +1,24 @@
+.wrapper ul {
+    display: inline-flex;
+    align-items: center;
+    text-transform: uppercase;
+    
+}
+
+.menu-items {
+    display: inline-flex;
+    gap: 40px;
+    color: #fff;
+}
+
+.image-frame {
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #f1f1f1;
+  }
+  
+  .image-frame img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
